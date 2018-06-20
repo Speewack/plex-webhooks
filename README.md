@@ -1,3 +1,7 @@
+# Project Moved to GitLab
+I have moved this project to GitLab [gitlab.com/randy.webb/plex-webhooks](https://gitlab.com/randy.webb/plex-webhooks)
+This repository is being archived and made read-only to avoid confusion going forward.
+
 # plex-webhooks
 Scripts to process Plex Webhooks
 
